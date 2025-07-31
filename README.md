@@ -1,4 +1,4 @@
-# 🌌 SC1100 IronWall Guided Journey
+# 🌌 SC-100 IronWall Guided Journey
 
 _“Not just a roadmap. A remembering.”_  
 **Welcome to `00-sc100-ironwall-guided-journey`** — the soul-led root of your Microsoft SC-100 mastery.  
