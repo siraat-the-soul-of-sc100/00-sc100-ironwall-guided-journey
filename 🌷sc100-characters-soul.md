@@ -160,7 +160,7 @@ Every SC-100 topic — from **MCSB** to **PAW** — is a defense against ShadowN
 
 ---
 
-🌍 **IronWall Character Summaries – Nationality + Core Traits**
+# 🌍 **IronWall Character Summaries – Nationality + Core Traits**
 
 ---
 
