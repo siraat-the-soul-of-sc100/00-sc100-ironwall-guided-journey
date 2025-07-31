@@ -75,5 +75,5 @@ _“The Straight Path — Empowering minds with clarity, illuminating paths with
 
 ---
 
-🖋️ Styling Note  
-"For the output — make it beauty and beauty and beautiful 💖, with emojis 🌸✨, with flowers 🌷🌼, with charm and magic 🧚‍♀️ — full of softness, sweetness, and a spring-like feel."
+🖋️ Styling   
+ 🌸✨, with flowers 🌷🌼, with charm and magic 🧚‍♀️ — full of softness, sweetness, and a spring-like feel.
