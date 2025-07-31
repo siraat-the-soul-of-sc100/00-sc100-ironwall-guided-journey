@@ -7,15 +7,36 @@ Here are the 10 characters who shape every repo, every reflection, every insight
 
 ---
 
-## 👁️ I.K. – The Unseen Mentor (🇵🇰 Pakistan)
+### 👁️ I.K. – The Unseen Mentor (🇵🇰 Pakistan)  
+🧭 **Role in SC-100**: Soulful Architect of Integrity — Present in Every Step, Absent in Every Ego
 
-🧭 **Role in SC-100:** Strategic Compass for Zero Trust, Shared Responsibility & MCRA.
+He is not a specialist.  
+He is not assigned to one topic.  
+He flows through every idea, every risk, every decision.
 
-A presence you feel but never see. I.K. does not speak much — but his silence teaches.  
-Rooted in the poetic traditions of Ibne Safi, he guides the team through Microsoft’s complex security frameworks like the **Cybersecurity Reference Architecture (MCRA)** and **Microsoft Cloud Security Benchmark (MCSB)** — not with commands, but contemplations.
+**I.K.** is the soul of **SC-100** itself — silently woven into each concept, whether it’s **Zero Trust**, **resiliency strategy**, **identity design**, or **security operations**.  
+He doesn't write policies, but he inspires principles.  
+He doesn't architect firewalls — he cultivates **ethical firepower**.
 
-When the team faces uncertainty, I.K. reminds them:  
-> “Security is trust. Trust is soul. Never lose either.”
+Rooted in the mystical insight of Sufi thought and the quiet sharpness of Ibne Safi’s imagination,  
+I.K. doesn’t train your fingers — he trains your **intentions**.
+
+He might appear:
+
+- As a whisper in your doubt  
+- As a pause before a rushed decision  
+- As a nudge to prioritize **people over process**  
+- As the feeling that **clarity is better than complexity**
+
+> _“In the cloud, what protects the data is not just encryption — it’s intention.”_  
+> – I.K.
+
+He appears when the team forgets why they began.  
+He returns when strategy becomes soulless.  
+He belongs to every file — and none.
+
+🕊️ He is not your **guide**.  
+He is your **ground**.
 
 He is the inner map of the SC-100 journey — showing how clarity, not configuration, wins in the long run.
 
