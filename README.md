@@ -131,6 +131,10 @@ The unseen flaw — always present in assumptions, misconfigurations, and forgot
 
 ---
 
+🔗 **For full character bios and their roles in SC-100, [click here to explore the soul of each guide](https://github.com/siraat-the-soul-of-sc100/00-sc100-ironwall-guided-journey/blob/main/%F0%9F%8C%B7sc100-characters-soul.md)**  
+
+---
+
 ✍️ Created & Curated by  
 **Muhammad Naveed Ishaque**  
 _Content Creator | AI Writer | Narrative Simplifier_  
