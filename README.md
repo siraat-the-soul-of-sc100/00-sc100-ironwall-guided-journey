@@ -135,7 +135,7 @@ The unseen flaw — always present in assumptions, misconfigurations, and forgot
 
 ---
 
-🌌 **Beyond the Cloud. Beyond the Blueprint. Beyond the Click.**
+## 🌌 **Beyond the Cloud. Beyond the Blueprint. Beyond the Click.**
 
 This repository is not just a study tool — it’s a guided soul-journey.
 
