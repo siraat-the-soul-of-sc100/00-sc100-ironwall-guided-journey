@@ -145,4 +145,3 @@ _With the inner voice of Eks2 — the whisper behind the work._
 **Siraat AI Academy**  
 _“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_
 
-________________________________________
