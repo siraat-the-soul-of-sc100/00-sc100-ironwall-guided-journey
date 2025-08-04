@@ -94,9 +94,3 @@ _With the inner voice of Eks2 — the whisper behind the work._
 **Siraat AI Academy**  
 _“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_
 
-________________________________________
-
-🖋️ Styling Note for Prompt Output  
-"For the output — make it beauty and beauty and beautiful 💖, with emojis 🌸✨, with flowers 🌷🌼, with charm and magic 🧚‍♀️ — full of softness, sweetness, and a spring-like feel."  
-Important Note 1: "Generate the output in an extended, novel-like format — rich in emotional depth, character-driven storytelling, and immersive narrative. Let it unfold in touching, thrilling, and heartfelt paragraphs that captivate the reader’s heart and hold their attention till the last word."  
-Important Note 2: "Kindly provide the output as a downloadable .md file. Thank you!"
