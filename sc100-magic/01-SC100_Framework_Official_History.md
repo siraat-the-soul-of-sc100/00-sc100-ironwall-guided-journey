@@ -1,5 +1,5 @@
 
-# 🏥 SC-100 Hospital Model – Foundational Overview 🌷🧠  
+# 🏥 Microsoft Certification — SC-100 Hospital Model – Foundational Overview 🌷🧠  
 _“The story of a layman rising into leadership, one healing at a time.”_
 
 This document records the **original vision and framework** designed by the **Siraat AI Academy** — a model that turns **education into treatment**, and **learning into healing**.
